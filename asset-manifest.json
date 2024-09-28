@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SanketMangaveWaterDetector/static/css/main.747467dc.css",
-    "main.js": "/SanketMangaveWaterDetector/static/js/main.82352f8b.js",
+    "main.css": "/SanketMangaveWaterDetector/static/css/main.0d19ef7a.css",
+    "main.js": "/SanketMangaveWaterDetector/static/js/main.9635d7f8.js",
     "static/js/453.2751c154.chunk.js": "/SanketMangaveWaterDetector/static/js/453.2751c154.chunk.js",
     "static/media/logo.jpg": "/SanketMangaveWaterDetector/static/media/logo.48b660839cbb2064b718.jpg",
     "index.html": "/SanketMangaveWaterDetector/index.html",
-    "main.747467dc.css.map": "/SanketMangaveWaterDetector/static/css/main.747467dc.css.map",
-    "main.82352f8b.js.map": "/SanketMangaveWaterDetector/static/js/main.82352f8b.js.map",
+    "main.0d19ef7a.css.map": "/SanketMangaveWaterDetector/static/css/main.0d19ef7a.css.map",
+    "main.9635d7f8.js.map": "/SanketMangaveWaterDetector/static/js/main.9635d7f8.js.map",
     "453.2751c154.chunk.js.map": "/SanketMangaveWaterDetector/static/js/453.2751c154.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.747467dc.css",
-    "static/js/main.82352f8b.js"
+    "static/css/main.0d19ef7a.css",
+    "static/js/main.9635d7f8.js"
   ]
 }
