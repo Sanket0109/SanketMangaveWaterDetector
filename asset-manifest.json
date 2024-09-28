@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SanketMangaveWaterDetector/static/css/main.9a835447.css",
+    "main.js": "/SanketMangaveWaterDetector/static/js/main.318cfb81.js",
+    "static/js/453.2751c154.chunk.js": "/SanketMangaveWaterDetector/static/js/453.2751c154.chunk.js",
+    "static/media/logo.jpg": "/SanketMangaveWaterDetector/static/media/logo.48b660839cbb2064b718.jpg",
+    "index.html": "/SanketMangaveWaterDetector/index.html",
+    "main.9a835447.css.map": "/SanketMangaveWaterDetector/static/css/main.9a835447.css.map",
+    "main.318cfb81.js.map": "/SanketMangaveWaterDetector/static/js/main.318cfb81.js.map",
+    "453.2751c154.chunk.js.map": "/SanketMangaveWaterDetector/static/js/453.2751c154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a835447.css",
+    "static/js/main.318cfb81.js"
+  ]
+}
